@@ -132,7 +132,6 @@ Future Develpment
 - We can replace Bluetooth by GSM modem so that we can achieve device controlling by sending SMS using GSM modem.  
 
 
-Any suggestion are welcomed and feel free to open an <a href = "https://github.com/aagarwal1012/Home-Automation/issues">issue</a>.
 
 License
 --------
