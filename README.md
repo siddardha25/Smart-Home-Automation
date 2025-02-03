@@ -134,11 +134,6 @@ Future Develpment
 
 Any suggestion are welcomed and feel free to open an <a href = "https://github.com/aagarwal1012/Home-Automation/issues">issue</a>.
 
-# Donate
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> - [PayPal](https://www.paypal.me/aagarwal1012/)
-
 License
 --------
 
